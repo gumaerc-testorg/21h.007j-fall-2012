@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, assessment and grading, and policies on plagiarism, late submission
+  of papers, and laptop computers in class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
