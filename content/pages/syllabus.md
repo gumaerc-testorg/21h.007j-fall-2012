@@ -97,7 +97,7 @@ Your grade for class participation will be based on the following:
 Four Writing Assignments: 70%
 -----------------------------
 
-Students will write a paper of 1,250 words length on each of the three imperial case studies that make up the course. In accordance with the [regulations for CI-H subjects](http://web.mit.edu/commreq/), students will also submit a substantially re-worked version of their first paper as an exercise in revision.
+Students will write a paper of 1,250 words length on each of the three imperial case studies that make up the course. In accordance with the {{% resource_link "83dd0588-5653-4399-bb5c-b43da11a803e" "regulations for CI-H subjects" %}}, students will also submit a substantially re-worked version of their first paper as an exercise in revision.
 
 *   Paper 1: Session 8 (10%)
 *   Revision: Session 12 (15%)
@@ -107,7 +107,7 @@ Students will write a paper of 1,250 words length on each of the three imperial 
 Policy on Plagiarism
 --------------------
 
-Plagiarism—the use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature and History Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted and in all oral presentations. This includes images or texts in other media as well as materials collected online. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/), and [the MIT Website on Plagiarism](https://integrity.mit.edu/handbook/what-plagiarism).
+Plagiarism—the use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature and History Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted and in all oral presentations. This includes images or texts in other media as well as materials collected online. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the {{% resource_link "71e9281a-a4d9-44b5-8dd8-9991ca46232c" "Writing and Communication Center" %}}, and {{% resource_link "9d5544f7-5afc-4467-9960-87dc03a3d272" "the MIT Website on Plagiarism" %}}.
 
 Policy on Late Submission of Papers
 -----------------------------------
